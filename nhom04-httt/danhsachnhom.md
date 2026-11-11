@@ -13,9 +13,9 @@
 
 | STT | Họ và Tên | Mã Sinh Viên | Lớp Sinh Hoạt | Vai Trò | Nhiệm Vụ Phân Công | Tỷ Lệ Đóng Góp (%) | Email |
 | :-: | :--- | :-: | :-: | :--- | :--- | :-: | :--- |
-| 1 | [Nguyễn Văn A] | [20210001] | [DHTI15A1HN] | Nhóm trưởng | Thiết kế kiến trúc, phát triển Backend API | 100% | a@student.edu.vn |
-| 2 | [Trần Thị B] | [20210002] | [DHTI15A1HN] | Thành viên | Thiết kế giao diện Frontend, tích hợp API | 100% | b@student.edu.vn |
-| 3 | [Lê Văn C] | [20210003] | [DHTI15A1HN] | Thành viên | Thiết kế cơ sở dữ liệu, kiểm thử phần mềm | 100% | c@student.edu.vn |
+| 1 | Ngô Hải Thịnh | 2351160554 | [Lớp sinh hoạt] | Nhóm trưởng | [Nhiệm vụ] | [%] | [Email] |
+| 2 | Nguyễn Văn Hiếu | 2351160520 | [Lớp sinh hoạt] | Thành viên | [Nhiệm vụ] | [%] | [Email] |
+| 3 | Đặng Thành Lộc | 2351160534 | [Lớp sinh hoạt] | Thành viên | [Nhiệm vụ] | [%] | [Email] |
 
 ---
 
