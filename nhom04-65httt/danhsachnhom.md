@@ -2,10 +2,10 @@
 
 ## 1. Thông Tin Chung
 
-- **Tên nhóm:** nhom04-httt
-- **Tên lớp học phần:** [Điền mã hoặc tên lớp học phần]
-- **Tên đề tài:** [Điền tên đề tài đồ án / bài tập lớn]
-- **Giảng viên hướng dẫn:** [Điền tên giảng viên]
+- **Tên nhóm:** nhom04-65httt
+- **Tên lớp học phần:** Hệ thống kinh doanh thông minh
+- **Tên đề tài:** Hệ thống thông minh thu thập dữ liệu đa nguồn và tự động hóa CRM quản lý chủ nhà cho thuê
+- **Giảng viên hướng dẫn:** TS. Đỗ Oanh Cường
 
 ---
 
@@ -13,9 +13,9 @@
 
 | STT | Họ và Tên | Mã Sinh Viên | Lớp Sinh Hoạt | Vai Trò | Nhiệm Vụ Phân Công | Tỷ Lệ Đóng Góp (%) | Email |
 | :-: | :--- | :-: | :-: | :--- | :--- | :-: | :--- |
-| 1 | Ngô Hải Thịnh | 2351160554 | [Lớp sinh hoạt] | Nhóm trưởng | [Nhiệm vụ] | [%] | [Email] |
-| 2 | Nguyễn Văn Hiếu | 2351160520 | [Lớp sinh hoạt] | Thành viên | [Nhiệm vụ] | [%] | [Email] |
-| 3 | Đặng Thành Lộc | 2351160534 | [Lớp sinh hoạt] | Thành viên | [Nhiệm vụ] | [%] | [Email] |
+| 1 | Ngô Hải Thịnh | 2351160554 | 65HTTT | Nhóm trưởng | [Nhiệm vụ] | [%] | [Email] |
+| 2 | Nguyễn Văn Hiếu | 2351160520 | 65HTTT | Thành viên | [Nhiệm vụ] | [%] | [Email] |
+| 3 | Đặng Thành Lộc | 2351160534 | 65HTTT | Thành viên | [Nhiệm vụ] | [%] | [Email] |
 
 ---
 
