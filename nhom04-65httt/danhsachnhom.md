@@ -15,7 +15,7 @@
 | :-: | :--- | :-: | :-: | :--- | :--- | :-: | :--- |
 | 1 | Ngô Hải Thịnh | 2351160554 | 65HTTT | Nhóm trưởng | [Nhiệm vụ] | [%] | [Email] |
 | 2 | Nguyễn Văn Hiếu | 2351160520 | 65HTTT | Thành viên | [Nhiệm vụ] | [%] | [Email] |
-| 3 | Đặng Thành Lộc | 2351160534 | 65HTTT | Thành viên | [Nhiệm vụ] | [%] | [Email] |
+| 3 | Đặng Thành Lộc | 2351160534 | 65HTTT | Thành viên | CRM và BI: cấu hình EspoCRM, KPI và dashboard Superset | [%] | [Email] |
 
 ---
 
